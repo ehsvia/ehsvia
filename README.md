@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD500,100:000000&height=180&section=header&text=ehsvia&fontSize=55&fontColor=000000&fontAlignY=35&animation=fadeIn&desc=night-owl%20•%20terminal-dweller%20•%20ships%20chaos&descAlignY=58&descSize=18&descColor=1a1a1a" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD500,100:000000&height=180&section=header&text=ehsvia&fontSize=55&fontColor=000000&fontAlignY=35&animation=fadeIn&desc=i%20have%20no%20idea%20what%20im%20doing&descAlignY=58&descSize=18&descColor=1a1a1a" width="100%"/>
 
 <a href="https://github.com/ehsvia">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=FFD500&center=true&vCenter=true&width=600&lines=why+are+you+here%3F;please+go+away;" alt="Typing SVG" />
