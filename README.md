@@ -1,7 +1,18 @@
-![Snake animation](https://raw.githubusercontent.com/ehsvia/ehsvia/output/github-contribution-grid-snake.svg)
+# ehsvia.
+### 🐍 Contribution Snake
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehsvia&show_icons=true&theme=gruvbox)
+<!-- Dark Theme -->
+![Snake animation](https://raw.githubusercontent.com/ehsvia/ehsvia/main/dist/github-contribution-grid-snake-dark.svg)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ehsvia&theme=gruvbox)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsvia&layout=compact&theme=gruvbox)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ehsvia&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehsvia&theme=gruvbox" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsvia&layout=compact&theme=gruvbox" alt="Top Languages" />
+</p>
