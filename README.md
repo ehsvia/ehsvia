@@ -41,6 +41,8 @@
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ehsvia&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=c9c9c9&border_color=FFFFFF" width="45%"/>
 
+---
+
 ### reach me.
 
 <div align="center">
@@ -53,3 +55,5 @@
 <div align="center">
 <sub>curious, mostly quiet, occasionally shipping.</sub>
 </div>
+
+---
