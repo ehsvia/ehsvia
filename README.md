@@ -7,7 +7,6 @@
 </a>
 <br/>
 <img src="https://img.shields.io/badge/status-online-FFD500?style=for-the-badge&labelColor=000000" alt="status"/>
-<br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=ehsvia&color=FFD500&style=for-the-badge&label=VISITORS&labelColor=000000)
 
 <br/><br/>
