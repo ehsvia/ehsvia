@@ -34,7 +34,7 @@
 <img src="https://github-stats-extended.vercel.app/api?username=ehsvia&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9c9c9&border_color=FFFFFF" width="100%"/>
 </td>
 <td width="50%">
-<img src="https://streak-stats.demolab.com/?user=ehsvia&hide_border=true&background=0D0D0D&ring=0D0D0D&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=808080" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=ehsvia&hide_border=true&background=0D0D0D&ring=3d3d3d&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=808080" width="100%"/>
 </td>
 </tr>
 </table>
