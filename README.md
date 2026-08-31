@@ -5,7 +5,9 @@
 <a href="https://github.com/ehsvia">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=FFD500&center=true&vCenter=true&width=600&lines=why+are+you+here%3F;please+go+away;" alt="Typing SVG" />
 </a>
+
 <br/>
+
 ![](https://img.shields.io/badge/●_online-FFD500?style=for-the-badge&labelColor=000000&color=FFD500)
 <br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=ehsvia&color=FFD500&style=for-the-badge&label=VISITORS&labelColor=000000)
@@ -15,6 +17,7 @@
 <img src="https://raw.githubusercontent.com/ehsvia/ehsvia/main/dist/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <br/><br/>
+
 <table>
 <tr>
 <td width="50%">
@@ -27,6 +30,23 @@
 </table>
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ehsvia&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFD500&text_color=c9c9c9&border_color=FFD500" width="45%"/>
+
+<br/><br/>
+
+### reach me.
+
+<a href="https://discord.com/users/YOUR_DISCORD_ID">
+  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FFD500" />
+</a>
+<a href="https://x.com/YOUR_HANDLE">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFD500" />
+</a>
+<a href="https://instagram.com/YOUR_HANDLE">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFD500" />
+</a>
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFD500" />
+</a>
 
 <br/><br/>
 
