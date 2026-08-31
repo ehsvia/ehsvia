@@ -29,8 +29,10 @@
 
 <div align="center">
 
-<img align="top" src="https://github-stats-extended.vercel.app/api?username=ehsvia&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9c9c9&border_color=FFFFFF" width="49%"/>
-<img align="top" src="https://streak-stats.demolab.com/?user=ehsvia&hide_border=true&background=0D0D0D&ring=3d3d3d&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=808080" width="49%"/>
+<div style="display:flex; justify-content:center; gap:12px;">
+  <img src="https://github-stats-extended.vercel.app/api?username=ehsvia&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9c9c9&border_color=FFFFFF" style="width:49%; height:195px; object-fit:contain;"/>
+  <img src="https://streak-stats.demolab.com/?user=ehsvia&hide_border=true&background=0D0D0D&ring=3d3d3d&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=808080" style="width:49%; height:195px; object-fit:contain;"/>
+</div>
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ehsvia&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=c9c9c9&border_color=FFFFFF" width="45%"/>
 
