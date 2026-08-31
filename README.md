@@ -1,6 +1,7 @@
 # ehsvia.
+
 ### contribution. (not much lol...)
-<!-- Dark Theme -->
+
 ![Snake animation](https://raw.githubusercontent.com/ehsvia/ehsvia/main/dist/github-contribution-grid-snake-dark.svg)
 
 ---
@@ -9,6 +10,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ehsvia&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehsvia&theme=gruvbox" alt="GitHub Streak" />
 </p>
 
