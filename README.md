@@ -35,7 +35,7 @@
 <img src="https://github-stats-extended.vercel.app/api?username=ehsvia&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9c9c9&border_color=FFFFFF" width="100%"/>
 </td>
 <td width="50%">
-<img src="https://streak-stats.demolab.com/?user=ehsvia&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=808080" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=ehsvia&hide_border=true&background=0D0D0D&ring=FFD500&fire=FFD500&currStreakLabel=FFD500&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=808080" width="100%"/>
 </td>
 </tr>
 </table>
@@ -65,16 +65,16 @@
 
 <br/><br/>
 
-<a href="https://codeforces.com/profile/YOUR_HANDLE">
+<a href="https://codeforces.com/profile/ehsvia">
   <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=FFFFFF" />
 </a>
-<a href="https://leetcode.com/YOUR_HANDLE">
+<a href="https://leetcode.com/ehsvia">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFFFFF" />
 </a>
-<a href="https://www.codechef.com/users/YOUR_HANDLE">
+<a href="https://www.codechef.com/users/ehsvia">
   <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=FFFFFF" />
 </a>
-<a href="https://atcoder.jp/users/YOUR_HANDLE">
+<a href="https://atcoder.jp/users/ehsvia">
   <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=FFFFFF" />
 </a>
 
