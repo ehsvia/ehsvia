@@ -41,7 +41,6 @@
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ehsvia&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=c9c9c9&border_color=FFFFFF" width="45%"/>
 
-</div>
 ### reach me.
 
 <div align="center">
@@ -51,8 +50,6 @@
 <br/><br/>
 
 <a href="https://codeforces.com/profile/YOUR_HANDLE"><img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=FFFFFF" /></a> <a href="https://leetcode.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFFFFF" /></a> <a href="https://www.codechef.com/users/YOUR_HANDLE"><img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=FFFFFF" /></a> <a href="https://atcoder.jp/users/YOUR_HANDLE"><img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge" /></a>
-
-</div>
 <div align="center">
 <sub>curious, mostly quiet, occasionally shipping.</sub>
 </div>
