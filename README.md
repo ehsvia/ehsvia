@@ -53,7 +53,6 @@
 
 <a href="https://codeforces.com/profile/YOUR_HANDLE"><img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=FFFFFF" /></a> <a href="https://leetcode.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFFFFF" /></a> <a href="https://www.codechef.com/users/YOUR_HANDLE"><img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=FFFFFF" /></a> <a href="https://atcoder.jp/users/YOUR_HANDLE"><img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge" /></a>
 <div align="center">
+---
 <sub>curious, mostly quiet, occasionally shipping.</sub>
 </div>
-
----
