@@ -15,11 +15,10 @@
 <img src="https://raw.githubusercontent.com/ehsvia/ehsvia/main/dist/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <br/><br/>
-
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=ehsvia&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFD500&icon_color=FFD500&text_color=c9c9c9&border_color=FFD500" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=ehsvia&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFD500&icon_color=FFD500&text_color=c9c9c9&border_color=FFD500" width="100%"/>
 </td>
 <td width="50%">
 <img src="https://streak-stats.demolab.com/?user=ehsvia&hide_border=true&background=0D0D0D&ring=FFD500&fire=FFD500&currStreakLabel=FFD500&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=808080" width="100%"/>
@@ -27,7 +26,7 @@
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsvia&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFD500&text_color=c9c9c9&border_color=FFD500" width="45%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ehsvia&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFD500&text_color=c9c9c9&border_color=FFD500" width="45%"/>
 
 <br/><br/>
 
