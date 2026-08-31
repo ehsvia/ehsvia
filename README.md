@@ -48,10 +48,7 @@
 <div align="center">
 
 <a href="https://discord.com/users/ehsvia"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FFFFFF" /></a> <a href="https://x.com/ehsvia"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF" /></a> <a href="https://instagram.com/ehsvia"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF" /></a> <a href="mailto:ehsvia@proton.me"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /></a>
-
-<br/>
 <a href="https://codeforces.com/profile/ehsvia"><img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=FFFFFF" /></a> <a href="https://leetcode.com/ehsvia"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFFFFF" /></a> <a href="https://www.codechef.com/users/ehsvia"><img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=FFFFFF" /></a> <a href="https://atcoder.jp/users/ehsvia"><img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge" /></a>
-<br/>
 ---
 <div align="center">
 <sub>she knows.</sub>
