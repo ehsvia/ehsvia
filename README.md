@@ -5,7 +5,7 @@
 <a href="https://github.com/ehsvia">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=FFD500&center=true&vCenter=true&width=600&lines=why+are+you+here%3F;please+go+away;" alt="Typing SVG" />
 </a>
-
+<img src="https://img.shields.io/badge/status-online-FFD500?style=for-the-badge&labelColor=000000" alt="status"/>
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ehsvia&color=FFD500&style=for-the-badge&label=VISITORS&labelColor=000000)
@@ -27,10 +27,6 @@
 </table>
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ehsvia&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFD500&text_color=c9c9c9&border_color=FFD500" width="45%"/>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/status-online-FFD500?style=for-the-badge&logo=discord&logoColor=black&labelColor=000000)
 
 <br/><br/>
 
