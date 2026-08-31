@@ -9,13 +9,9 @@
 ### stats.
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ehsvia&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+  <img src="https://github-readme-profile-alpha.vercel.app/api?username=ehsvia&theme=gruvbox" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehsvia&theme=gruvbox" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ehsvia&layout=compact&theme=gruvbox" alt="Top Languages" />
 </p>
