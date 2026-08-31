@@ -28,14 +28,9 @@
 <h3 align="center">stats.</h3>
 
 <div align="center">
-<div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=ehsvia&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9c9c9&border_color=FFFFFF" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=ehsvia&hide_border=true&background=0D0D0D&ring=3d3d3d&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=808080" width="49%"/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ehsvia&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=c9c9c9&border_color=FFFFFF" width="45%"/>
-
-</div>
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ehsvia&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=c9c9c9&border_color=FFFFFF" width="45%"/>
 
@@ -49,7 +44,10 @@
 
 <a href="https://discord.com/users/ehsvia"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FFFFFF" /></a> <a href="https://x.com/ehsvia"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF" /></a> <a href="https://instagram.com/ehsvia"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF" /></a> <a href="mailto:ehsvia@proton.me"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /></a>
 
-<a href="https://codeforces.com/profile/ehsvia"><img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=FFFFFF" /></a> <a href="https://leetcode.com/ehsvia"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFFFFF" /></a> <a href="https://www.codechef.com/users/ehsvia"><img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=FFFFFF" /></a> <a href="https://atcoder.jp/users/ehsvia"><img src="https://cp-logo.vercel.app/atcoder/ehsvia?logo=true" /></a>
+<br/><br/>
+
+<a href="https://codeforces.com/profile/ehsvia"><img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=FFFFFF" /></a> <a href="https://leetcode.com/ehsvia"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFFFFF" /></a> <a href="https://www.codechef.com/users/ehsvia"><img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=FFFFFF" /></a> <a href="https://atcoder.jp/users/ehsvia"><img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge" /></a>
+
 </div>
 
 ---
