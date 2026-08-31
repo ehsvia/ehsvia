@@ -8,9 +8,8 @@
 
 <br/>
 
-![](https://img.shields.io/badge/●_online-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF)
-![Profile Views](https://komarev.com/ghpvc/?username=ehsvia&color=FFFFFF&style=for-the-badge&label=VISITORS&labelColor=000000)
-
+![](https://img.shields.io/badge/●_online-000000?style=for-the-badge&labelColor=000000&color=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=ehsvia&color=000000&style=for-the-badge&label=VISITORS&labelColor=000000)
 </div>
 
 <br/>
