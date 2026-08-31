@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=why+are+you+here%3F;please+go+away;" alt="Typing SVG" />
 </a>
 
-<br/>
-
 ![](https://img.shields.io/badge/●_online-000000?style=for-the-badge&labelColor=000000&color=000000)
 ![Profile Views](https://komarev.com/ghpvc/?username=ehsvia&color=000000&style=for-the-badge&label=VISITORS&labelColor=000000)
 
