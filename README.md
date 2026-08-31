@@ -9,14 +9,25 @@
 <br/>
 
 ![](https://img.shields.io/badge/●_online-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF)
-<br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=ehsvia&color=FFFFFF&style=for-the-badge&label=VISITORS&labelColor=000000)
 
-<br/><br/>
+</div>
 
+<br/>
+
+---
+
+### contribution.
+
+<div align="center">
 <img src="https://raw.githubusercontent.com/ehsvia/ehsvia/main/dist/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
 
-<br/><br/>
+---
+
+### stats.
+
+<div align="center">
 
 <table>
 <tr>
@@ -24,16 +35,20 @@
 <img src="https://github-stats-extended.vercel.app/api?username=ehsvia&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9c9c9&border_color=FFFFFF" width="100%"/>
 </td>
 <td width="50%">
-<img src="https://streak-stats.demolab.com/?user=ehsvia&hide_border=true&background=0D0D0D&ring=FFD500&fire=FFD500&currStreakLabel=FFD500&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=808080" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=ehsvia&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=808080" width="100%"/>
 </td>
 </tr>
 </table>
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ehsvia&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=c9c9c9&border_color=FFFFFF" width="45%"/>
 
-<br/><br/>
+</div>
+
+---
 
 ### reach me.
+
+<div align="center">
 
 <a href="https://discord.com/users/YOUR_DISCORD_ID">
   <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FFFFFF" />
@@ -50,6 +65,23 @@
 
 <br/><br/>
 
-<sub>curious, mostly quiet, occasionally shipping.</sub>
+<a href="https://codeforces.com/profile/YOUR_HANDLE">
+  <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=FFFFFF" />
+</a>
+<a href="https://leetcode.com/YOUR_HANDLE">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFFFFF" />
+</a>
+<a href="https://www.codechef.com/users/YOUR_HANDLE">
+  <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=FFFFFF" />
+</a>
+<a href="https://atcoder.jp/users/YOUR_HANDLE">
+  <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=FFFFFF" />
+</a>
 
+</div>
+
+---
+
+<div align="center">
+<sub>curious, mostly quiet, occasionally shipping.</sub>
 </div>
