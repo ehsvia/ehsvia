@@ -11,9 +11,12 @@
 <img src="https://raw.githubusercontent.com/ehsvia/ehsvia/main/dist/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ehsvia&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=A0A0A0&icon_color=A0A0A0" width="48%"/>
-
+<p align="center">
+  <img src="https://github-readme-profile-alpha.vercel.app/api?username=ehsvia&theme=gruvbox" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehsvia&theme=gruvbox" alt="GitHub Streak" />
+</p>
 <br/><br/>
 
 <sub>curious, mostly quiet, occasionally shipping.</sub>
